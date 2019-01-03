@@ -67,6 +67,7 @@ class HelloWorld {
        	case 1: println("Int")
        }
        
+       // Multi-Line comment
        var newString=
 "                        Hello Wolrd..!
                            Hello World..!!
