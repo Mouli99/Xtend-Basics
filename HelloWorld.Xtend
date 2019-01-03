@@ -66,6 +66,12 @@ class HelloWorld {
        	case 'Mouli':println("Mouli")
        	case 1: println("Int")
        }
+       
+       var newString=
+"                        Hello Wolrd..!
+                           Hello World..!!
+                               Hello World..!!!"
+                               println(newString)
                       
 }
 
