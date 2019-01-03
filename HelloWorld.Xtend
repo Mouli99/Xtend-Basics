@@ -50,6 +50,22 @@ class HelloWorld {
         	i+=1
         }while(i<MAX)
         
-	}
+
+       //Using newArrayList
+                                      
+       var newList= newArrayList("1","2","3","4","5")
+       //Using Exclusive Operators
+       
+       for(i:newList.size >.. 0)
+       println(newList.get(i))
+       
+       //Using Switch case
+       var cha="Mouli"
+       switch(cha)
+       {
+       	case 'Mouli':println("Mouli")
+       	case 1: println("Int")
+       }
+                      
 }
 
