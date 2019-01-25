@@ -63,10 +63,28 @@ class PlayList {
 	//Vowel or Not
 	var  ch='B'
         if(ch == 'a' || ch== 'e'|| ch== 'i'|| ch== 'o'|| ch== 'u'|| ch== 'A'|| ch== 'E'|| ch== 'I'|| ch== 'O'|| ch== 'U'){ 
-	 	println(ch + " is Vowel")}
-	 	else{
-	 		println(ch+" is a Consonent")
-	 	}
+	   println(ch + " is Vowel")
+	   }
+	 else{
+	 	println(ch+" is a Consonent")
+	 }
+
+
+               //Bigger among three    
+		var a=6
+		var b=2
+		var c=0
+		if(a>b && a>c){
+			println("A is bigger");
+		}
+		else if(b>a && b>c){
+			println("b is bigger");
+		}
+		else{
+			println("c is bigger");
+		}
+	
+	
 
 		
 }
