@@ -17,6 +17,14 @@ class PlayList {
 	val a=in.nextInt();
 	val b=in.nextInt();
 	println(a+b);
+	
+	//Adding Floats
+	val in=new Scanner(System.in)
+	val a=in.nextFloat();
+	val b=in.nextFloat();
+	println(a+b);
+		
+
 		
 }
 
