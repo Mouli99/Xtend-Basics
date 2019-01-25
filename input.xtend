@@ -23,6 +23,11 @@ class PlayList {
 	val a=in.nextFloat();
 	val b=in.nextFloat();
 	println(a+b);
+	
+	//printing ASCII
+	val char a='c';
+	val b=a as int;
+	println(b)
 		
 
 		
