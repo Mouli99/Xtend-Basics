@@ -47,6 +47,16 @@ class PlayList {
 	a=b
 	b=c
 	println(a+" "+b)
+	
+	
+	//Even Or Odd
+	var a=3
+	if(a%2==0){
+		println("Even")
+	}
+	else{
+		println("Odd")
+	}
 		
 
 		
