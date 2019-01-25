@@ -35,6 +35,18 @@ class PlayList {
 	val b=4;
 	println("Remainder is "+a/b)
 	println("Quotient is "+a%b)
+	
+	
+	
+	//Swap integers
+	var a=2
+	var b=3
+	println(a+" "+b)
+	var int c
+	c=a
+	a=b
+	b=c
+	println(a+" "+b)
 		
 
 		
