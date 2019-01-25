@@ -28,6 +28,13 @@ class PlayList {
 	val char a='c';
 	val b=a as int;
 	println(b)
+	
+	
+	//quotient and remainder
+	val a=12.55;
+	val b=4;
+	println("Remainder is "+a/b)
+	println("Quotient is "+a%b)
 		
 
 		
