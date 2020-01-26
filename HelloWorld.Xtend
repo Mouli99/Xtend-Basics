@@ -3,7 +3,7 @@ class HelloWorld {
 		
 		//PRITING HELLO WOLRD
 		
-		println("Hello World..!!")
+		println("HELLO WORLD..!!")
 		
 		//INITIALISING AN ARRAY		
 		
